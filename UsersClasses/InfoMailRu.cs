@@ -13,7 +13,7 @@ namespace WFA_SendingEmail.UsersClasses
         {
             SmtpClientAdress = "smtp.mail.ru";
             EmailAdressFrom = new StringPair("maluish2005@mail.ru", "Шеховцов Иван Александрович");
-            EmailPassword = "ncx135NzJ4CBj51dYGWx";
+            EmailPassword = "cV9CRAmRKTGe4Mbw4p4g";
             Port = -1;
         }
         

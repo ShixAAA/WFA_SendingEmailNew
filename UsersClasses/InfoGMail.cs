@@ -13,7 +13,7 @@ namespace WFA_SendingEmail.UsersClasses
         {
             SmtpClientAdress = "smtp.gmail.com";
             EmailAdressFrom = new StringPair("cocsell1337@gmail.com", "Шеховцов Иван Александрович");
-            EmailPassword = "nqyjeayhosbvcgye";
+            EmailPassword = "ityatoqthksrkcej";
             Port = 587;
         }
 

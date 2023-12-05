@@ -8,8 +8,6 @@ using System.Threading.Tasks;
 namespace WFA_SendingEmail.UsersClasses
 {
 
-
-
     public abstract class InfoEmail
     {
        private string _smtpClientAdress;
